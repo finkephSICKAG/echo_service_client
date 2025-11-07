@@ -33,6 +33,6 @@ The easiest way to have a server of this kind is to use the provided TCP server 
 
 .. code-block:: console
 
-    $ python ./scripts/test_tcp_server.py
+    python ./scripts/test_tcp_server.py
 
 After a connection is made, the application will echo back any line sent to it by the server.
